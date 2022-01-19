@@ -4,29 +4,27 @@
 ### Assignment 1
 
 
-```assignment 1
+```
 
 # Report
 # Presentation
-
 ```
+
 
 ### Assignment 2
 
-```assignment 2
+```
 
 # Report
 # Presentation
-
 ```
 
 ### Assignment 3
 
-```assignment 3
+```
 
 # Report
 # Presentation
-
 ```
 
 
