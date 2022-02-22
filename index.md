@@ -5,7 +5,7 @@
 
 [Apollo Conceptual Architecture Analysis Report](https://github.com/ashley-liao/ashley-liao.github.io/files/8113738/Group.17-.Apollo.Conceptual.Architecture.Analysis.pdf)
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRVEwkBklLwT010cuCw7ElcZ_6lNKjxibxyjxaXD-Appdw8zun_TjLKcDmtyW9zMUbSNEfAy-NcNDcw/pub?embedded=true"></iframe>
+<iframe src="https://github.com/ashley-liao/ashley-liao.github.io/files/8113738/Group.17-.Apollo.Conceptual.Architecture.Analysis.pdf"></iframe>
 
 [Apollo Conceptual Architecture Analysis Presentation](https://youtu.be/NWzuqCSJXS0)
 
