@@ -7,9 +7,10 @@
 
 [Apollo Conceptual Architecture Analysis Presentation](https://youtu.be/NWzuqCSJXS0)
 
-https://user-images.githubusercontent.com/71025088/155065352-724677dd-511b-414d-a6a6-f0d2ea17d7ff.mp4
-
-
+ <video src=" https://user-images.githubusercontent.com/71025088/155065352-724677dd-511b-414d-a6a6-f0d2ea17d7ff.mp4
+" data-canonical-src=" https://user-images.githubusercontent.com/71025088/155065352-724677dd-511b-414d-a6a6-f0d2ea17d7ff.mp4
+" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
 
 ### Assignment 2
 
