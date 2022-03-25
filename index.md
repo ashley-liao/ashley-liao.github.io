@@ -16,8 +16,9 @@
 
 ```
 
-# Report
-# Presentation
+[Apollo Concrete Architecture Analysis Report](https://docs.google.com/document/d/e/2PACX-1vRqGowIkrJPtLd3m0IGZYf5mz93NeUeZ1w504N7-U0TQg3OsGLHEofTof37kGNFn2WfiVmQy9v4vzza/pub)
+
+[Apollo Concrete Architecture Analysis Presentation](https://youtu.be/RcC6FgBm1ic)
 ```
 
 ### Assignment 3
