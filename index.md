@@ -19,10 +19,11 @@
 
 ### Assignment 3
 
-```
+[Apollo Enhancement Proposal](https://docs.google.com/document/d/e/2PACX-1vTRMvkw8IBI0eTOrsJPJ5377eFrKD74Ki770lNsGEvvp0DpP7XujZjULwmoKjQ-helQVVPvp7XJ3gSN/pub)
 
-# Report
-# Presentation
+[Apollo Enhancement Proposal Presentation](https://youtu.be/uQ7kJY27y60)
+
+
 ```
 
 ### Documentation
