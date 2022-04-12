@@ -24,12 +24,6 @@
 [Apollo Enhancement Proposal Presentation](https://youtu.be/uQ7kJY27y60)
 
 
-```
-
-### Documentation
-```
-```
-
 
 ### Team Members
 Yihong Li,
